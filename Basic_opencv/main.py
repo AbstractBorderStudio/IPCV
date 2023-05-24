@@ -2,6 +2,7 @@
 import cv2 as cv
 import numpy as np
 import matplotlib as mpl
+import matplotlib.pyplot as plt
 
 # on pycharm the path is relative to the file and not the project
 path = "imgs/circle.png"
@@ -40,3 +41,4 @@ cv.imshow("Window Name", b)
 cv.waitKey(0)
 cv.destroyAllWindows()
 
+# PLT
