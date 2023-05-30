@@ -1,0 +1,1 @@
+frame.shape[1], frame.shape[0]
